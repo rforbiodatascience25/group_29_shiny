@@ -1,0 +1,13 @@
+name: Virtual_Central_Dogma
+title: Virtual_Central_Dogma
+username: wgbszq-mille-grinder
+account: wgbszq-mille-grinder
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15958440
+bundleId: 11131501
+url: https://wgbszq-mille-grinder.shinyapps.io/Virtual_Central_Dogma/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 01_hello.R|virtual_gene_generator.R
